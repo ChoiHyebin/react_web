@@ -6,7 +6,7 @@ import Footer from './components/Footer';
 import Home from './routes/Home';
 import Profile from './routes/Profile';
 import Discography from './routes/Discography';
-import Gallery from './routes/Gallery';
+import Galleryy from './routes/Gallery';
 import Video from './routes/Video';
 import Notice from './routes/Notice';
 import Schedule from './routes/Schedule';
@@ -20,7 +20,7 @@ const App = () => {
                     <Route path='/' element={<Home />} />
                     <Route path='/profile' element={<Profile />} />
                     <Route path='/discography' element={<Discography />} />
-                    <Route path='/gallery' element={<Gallery />} />
+                    <Route path='/gallery' element={<Galleryy />} />
                     <Route path='/video' element={<Video />} />
                     <Route path='/Notice' element={<Notice />} />
                     <Route path='/Schedule' element={<Schedule />} />

@@ -4,7 +4,7 @@ import { Gallery } from "react-grid-gallery";
 // import Lightbox from 'react-image-lightbox';
 import { useState } from 'react';
 
-const gallery = () => {
+const Galleryy = () => {
 
     return (
         <div className="gallery-container">
@@ -26,4 +26,4 @@ const gallery = () => {
     );
 }
 
-export default gallery;
+export default Galleryy;
