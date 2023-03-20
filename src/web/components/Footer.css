@@ -1,0 +1,22 @@
+footer{
+    font-family: 'montserrat';
+}
+.footer{
+    color:white;
+    font-size: 12px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+.sns-container{
+    font-size: 25px;
+}
+.sns-container>ul{
+    display: flex;
+    gap: 20px;
+}
+.enter{
+    color:navy;
+}

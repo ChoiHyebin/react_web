@@ -1,0 +1,65 @@
+.menu-bar{
+    font-size: 40px;
+    color:white;
+    transition: .4s;
+    position: relative;
+    z-index: 1;
+}
+
+.menu{
+    position: absolute;
+    transform: translate(-300px, -50px);
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 380px;
+    height: 100vh;
+    text-indent: 1em;
+    z-index: 1;
+    position: fixed;
+    animation: slide .4s forwards;
+}
+
+.menu>ul{
+    position: absolute;
+    line-height: 80px;
+    font-family: 'monstreet';
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 100px;
+}
+.menu>ul>li{
+    text-align: left;
+}
+.menu>ul>li>a{
+    transition: .3s;
+}
+.menu>ul>li>a:hover{
+    color: rgb(40, 57, 121);
+    letter-spacing: 5px;
+}
+
+.hide-menu{
+    display: none;
+}
+
+button{
+    border: none;
+    font-size: 40px;
+    color:white;
+    transition: .4s;
+    position: relative;
+    z-index: 1;
+    cursor: pointer;
+    background-color: transparent;
+}
+
+@keyframes slide {
+    0% {
+        transform: translate(0px, -50px);
+    }
+}
+
+/* @keyframes slide2 {
+    100% {
+        transform: translate(300px, -50px);
+    }
+} */
