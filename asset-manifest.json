@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react_web/static/css/main.1bd10d21.css",
+    "main.js": "/react_web/static/js/main.98c2bc2c.js",
+    "static/js/787.7ea58ce3.chunk.js": "/react_web/static/js/787.7ea58ce3.chunk.js",
+    "static/media/album1.png": "/react_web/static/media/album1.f41c6c6351688864a05a.png",
+    "static/media/album2.png": "/react_web/static/media/album2.286ee22343247e960e6a.png",
+    "static/media/hanni.jpg": "/react_web/static/media/hanni.e9b7c488485c3f14f8c9.jpg",
+    "static/media/hyein.jpg": "/react_web/static/media/hyein.5d2bbe29d9b72aa85e33.jpg",
+    "static/media/minji.jpg": "/react_web/static/media/minji.80b16d5d6ac72c81bf1f.jpg",
+    "static/media/daniel.jpg": "/react_web/static/media/daniel.6eccd2daaaf49797b6bc.jpg",
+    "static/media/rabbit1.png": "/react_web/static/media/rabbit1.a9797c49cd9db54de284.png",
+    "static/media/haerin.jpg": "/react_web/static/media/haerin.7dcd0ee55d851ef49b8c.jpg",
+    "static/media/rabbit2.png": "/react_web/static/media/rabbit2.3b8e14810174f08661be.png",
+    "static/media/rabbit5.png": "/react_web/static/media/rabbit5.2ed017cec12bd4073958.png",
+    "static/media/rabbit4.png": "/react_web/static/media/rabbit4.03498c049e39c5d5f16a.png",
+    "static/media/rabbit3.png": "/react_web/static/media/rabbit3.c4ec6cb3f1fee4fb008d.png",
+    "static/media/cd.png": "/react_web/static/media/cd.a968fef16b036e123c12.png",
+    "static/media/logo.svg": "/react_web/static/media/logo.8cb8cb697ee425e2a5aaa8a589f156d5.svg",
+    "index.html": "/react_web/index.html",
+    "main.1bd10d21.css.map": "/react_web/static/css/main.1bd10d21.css.map",
+    "main.98c2bc2c.js.map": "/react_web/static/js/main.98c2bc2c.js.map",
+    "787.7ea58ce3.chunk.js.map": "/react_web/static/js/787.7ea58ce3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bd10d21.css",
+    "static/js/main.98c2bc2c.js"
+  ]
+}
