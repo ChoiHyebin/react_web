@@ -1,16 +1,16 @@
 import './Home.css';
 import { useState } from 'react';
-// import rabbit1 from '../images/rabbit1.png';
-// import rabbit2 from '../images/rabbit2.png';
-// import rabbit3 from '../images/rabbit3.png';
-// import rabbit4 from '../images/rabbit4.png';
-// import rabbit5 from '../images/rabbit5.png';
+import rabbit1 from '../images/rabbit1.png';
+import rabbit2 from '../images/rabbit2.png';
+import rabbit3 from '../images/rabbit3.png';
+import rabbit4 from '../images/rabbit4.png';
+import rabbit5 from '../images/rabbit5.png';
 
-import rabbit1 from '../../../public/images/rabbit1.png';
-import rabbit2 from '../../../public/images/rabbit2.png';
-import rabbit3 from '../../../public/images/rabbit3.png';
-import rabbit4 from '../../../public/images/rabbit4.png';
-import rabbit5 from '../../../public/images/rabbit5.png';
+// import rabbit1 from '../../../public/images/rabbit1.png';
+// import rabbit2 from '../../../public/images/rabbit2.png';
+// import rabbit3 from '../../../public/images/rabbit3.png';
+// import rabbit4 from '../../../public/images/rabbit4.png';
+// import rabbit5 from '../../../public/images/rabbit5.png';
 
 const Home = () => {
     return (

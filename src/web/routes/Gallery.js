@@ -1,8 +1,6 @@
 import './Gallery.css';
 import imgs from '../assets/Imagedata';
 import { Gallery } from "react-grid-gallery";
-// import Lightbox from 'react-image-lightbox';
-import { useState } from 'react';
 
 const Galleryy = () => {
 
@@ -10,17 +8,17 @@ const Galleryy = () => {
         <div className="gallery-container">
             <h1>GALLERY</h1>
             {/* <div className='gallery'>
-                <div className="gallery-img">
-                    {
-                        imgs.map((img)=>(
-                            <img src={img.src} alt=""/>
-                        ))
-                    }
-                </div>
+                {
+                    imgs.map((img)=>(
+                        <img src={img.src} alt=""/>
+                    ))
+                }
             </div> */}
 
             <div className="gal">
-                <Gallery images={imgs} />
+                <Gallery
+                    images={imgs}
+                />
             </div>
         </div>
     );
